@@ -2,9 +2,6 @@
 ### Hi there, I'm RATI KUMARI - [portfolio] 👋
 ## I'm completed my masters in Computer Science from IIT Jodhpur
 
-- 🌱 I’m currently doing master's project under Dr. Anand Mishra 
-- 👯 I’m learning concepts of Machine Learning, Deep Learning and Computer Vision
-- 🥅 2021 Goals: Make some contribution to Computer Vision and Deep Learning Comminity 
 - ⚡ Resume: To know more about me check my [resume]  
 
 ## Languages and Tools:
